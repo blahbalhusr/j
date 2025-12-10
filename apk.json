@@ -1,4 +1,4 @@
 [
-  "http://52.22.63.2:5000/api/akamai/getlolum",
-  "http://52.22.63.2:5000/api/akamai/getlolum"
+  "https://example.com/api/akamai/getlolum",
+  "https://example.com/api/akamai/getlolum"
 ]
